@@ -1,0 +1,10 @@
+tensorflow >=2.8.0
+numpy
+matplotlib
+opencv-python
+scikit-learn
+joblib
+
+pandas           # if you used dataframes anywhere
+jupyterlab       # if running locally
+google-colab     # for compatibility with Colab
